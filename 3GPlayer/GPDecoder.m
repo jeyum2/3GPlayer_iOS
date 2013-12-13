@@ -48,7 +48,7 @@ const int sizes[] = { 12, 13, 15, 17, 19, 20, 26, 31, 5, 6, 5, 5, 0, 0, 0, 0 };
         }
         NSString *type = [NSString stringWithUTF8String:[subData bytes]];
         
-        NSLog(@"Position : %lu, Length : %u, Type : %@", containerLengthRange.location - 4, length, type);
+        NSLog(@"Position : %lu, Length : %u, Type : %@", (unsigned long)containerLengthRange.location - 4, length, type);
 // Skip "moov" tag
 //        if([type isEqualToString:@"moov"])
 //        {

@@ -1,8 +1,12 @@
 3GPlayer_iOS
 ============
 
-It shows how to handle 3GP(AMR-NB) file format in iOS
+It shows how to handle 3GP(AMR-NB) audio file format in iOS.
 
+How to Use Example Player
+============
+
+Just locate 3GP file into the application documents dir.
 
 Dependency
 ============
