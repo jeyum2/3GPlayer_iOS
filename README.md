@@ -13,7 +13,7 @@ For convenience, it is included in the repository.
 License
 ============
 
-This example is no license because just sample code.
+This example is no license because it is just sample code.
 But "Opencore-amr" & "AMR" & "3GP" have an own license and patent.
 Please check out above when you use for commercial purpose.
 
